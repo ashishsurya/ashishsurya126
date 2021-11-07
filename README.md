@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/100/000000/redux.png"/>
   <img src="https://img.icons8.com/color/100/000000/flask.png"/>
   <img src="https://img.icons8.com/color/100/000000/git.png"/>
+<img style="height:80px;object-fit:contain;" src="https://kyan-2015.s3.eu-west-1.amazonaws.com/production-2018/uploads/news_entry/image/255/medium_news_size_next-js-header.jpg"/>
+
 </div>
