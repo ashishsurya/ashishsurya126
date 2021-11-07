@@ -8,3 +8,15 @@
 ashishsurya126/ashishsurya126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1>Skills</h1>
+<div >
+<img  src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img  src="https://img.icons8.com/color/100/000000/django.png"/>
+  <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/100/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/100/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/100/000000/redux.png"/>
+  <img src="https://img.icons8.com/color/100/000000/flask.png"/>
+  <img src="https://img.icons8.com/color/100/000000/git.png"/>
+</div>
