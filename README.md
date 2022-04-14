@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development(React.js) and Data Science and Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me ? ashishsurya126@gmail.com
+- 📫 How to reach me ? ashishsurya126@protonmail.com
 
 <!---
 ashishsurya126/ashishsurya126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
